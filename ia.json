@@ -1,0 +1,1000 @@
+{
+    "m_Version": 15,
+    "Enabled": 1,
+    "DespawnTime": 600.0,
+    "RespawnTime": -1.0,
+    "MinDistRadius": 400.0,
+    "MaxDistRadius": 1000.0,
+    "DespawnRadius": 1100.0,
+    "AccuracyMin": 0.7,
+    "AccuracyMax": 1.0,
+    "ThreatDistanceLimit": -1.0,
+    "DamageMultiplier": -1.0,
+    "ObjectPatrols": [
+        {
+            "Name": "",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Wreck_UH1Y"
+        },
+        {
+            "Name": "",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Wreck_Mi8_Crashed"
+        },
+        {
+            "Name": "",
+            "Faction": "East",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "PoliceLoadout",
+            "NumberOfAI": 2,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Land_Wreck_hb01_aban1_police"
+        },
+        {
+            "Name": "",
+            "Faction": "East",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "PoliceLoadout",
+            "NumberOfAI": 2,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Land_Wreck_hb01_aban2_police"
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "NBCLoadout",
+            "NumberOfAI": 4,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 150.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "ContaminatedArea_Static"
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "NBCLoadout",
+            "NumberOfAI": 4,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 150.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "ContaminatedArea_Dynamic"
+        }
+    ],
+    "Patrols": [
+        {
+            "Name": "Base Militar Norte Airfield",
+            "Faction": "Raiders",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 5,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    2225.00005859375,
+                    0.0,
+                    10688.679609375
+                ],
+                [
+                    2113.28017578125,
+                    0.0,
+                    10998.44
+                ],
+                [
+                    2092.5898828125,
+                    0.0,
+                    11298.83
+                ],
+                [
+                    196.87013671875,
+                    0.0,
+                    11103.9101953125
+                ]
+            ]
+        },
+        {
+            "Name": "Banker",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 8,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    891.800214,
+                    0.0,
+                    1186.720039
+                ],
+                [
+                    796.879960,
+                    0.0,
+                    1216.809990
+                ],
+                [
+                    802.343994,
+                    0.0,
+                    1241.020117
+                ],
+                [
+                    741.410097,
+                    0.0,
+                    1226.560009
+                ],
+                [
+                    937.110195,
+                    0.0,
+                    926.569980
+                ],
+                [
+                    703.715986,
+                    0.0,
+                    1202.540029
+                ],
+                [
+                    671.290019,
+                    0.0,
+                    1141.029980
+                ],                
+                [
+                    545.12,
+                    0.0,
+                    1120.909960
+                ]
+            ]
+        },
+        {
+            "Name": "Base Militar Borek",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 4,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    9879.36015625,
+                    0.0,
+                    8593.9101953125
+                ],
+                [
+                    9941.0796875,
+                    0.0,
+                    8525.209609375
+                ],
+                [
+                    9734.8798828125,
+                    0.0,
+                    8451.030390625
+                ],
+                [
+                    9919.2003125,
+                    0.0,
+                    8432.2901953125
+                ],
+                [
+                    9760.6401171875,
+                    0.0,
+                    8406.530390625
+                ]
+            ]
+        },
+        {
+            "Name": "Cidade de Lukow",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "PoliceLoadout",
+            "NumberOfAI": 2,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3892.20015625,
+                    0.0,
+                    11687.4401953125
+                ],
+                [
+                    3385.3096875,
+                    0.0,
+                    12258.199609375
+                ],
+                [
+                    3165.8398828125,
+                    0.0,
+                    12059.090390625
+                ],
+                [
+                    3462.6303125,
+                    0.0,
+                    12034.8901953125
+                ],
+                [
+                    3837.5301171875,
+                    0.0,
+                    11756.150390625
+                ]
+            ]
+        },
+        {
+            "Name": "Cidade de Topolin",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "PoliceLoadout",
+            "NumberOfAI": 3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    2053.18015625,
+                    0.0,
+                    7398.6501953125
+                ],
+                [
+                    1089.9296875,
+                    0.0,
+                    7269.809609375
+                ],
+                [
+                    1568.9198828125,
+                    0.0,
+                    7383.820390625
+                ],
+                [
+                    1606.4003125,
+                    0.0,
+                    7571.9801953125
+                ],
+                [
+                    1841.0603125,
+                    0.0,
+                    7354.7701953125
+                ],
+                [
+                    1875.8603125,
+                    0.0,
+                    7642.9601953125
+                ],
+                [
+                    1969.5901171875,
+                    0.0,
+                    7071.430390625
+                ]
+            ]
+        },
+        {
+            "Name": "Base de Radunin",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7560.08015625,
+                    0.0,
+                    5931.1001953125
+                ],
+                [
+                    7670.2096875,
+                    0.0,
+                    5876.459609375
+                ],
+                [
+                    7713.1698828125,
+                    0.0,
+                    5956.090390625
+                ],
+                [
+                    7795.1703125,
+                    0.0,
+                    5920.1701953125
+                ],
+                [
+                    7774.8601171875,
+                    0.0,
+                    5768.700390625
+                ]
+            ]
+        },
+        {
+            "Name": "Base de Nadbor",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5565.21015625,
+                    0.0,
+                    3855.0401953125
+                ],
+                [
+                    5665.9796875,
+                    0.0,
+                    3746.519609375
+                ],
+                [
+                    5535.5398828125,
+                    0.0,
+                    3773.450390625
+                ],
+                [
+                    5706.9703125,
+                    0.0,
+                    3805.8501953125
+                ],
+                [
+                    5604.6501171875,
+                    0.0,
+                    3773.840390625
+                ]
+            ]
+        },
+        {
+            "Name": "Base de Swarog",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5225.52015625,
+                    0.0,
+                    2161.1401953125
+                ],
+                [
+                    5061.6096875,
+                    0.0,
+                    2184.849609375
+                ],
+                [
+                    5047.1698828125,
+                    0.0,
+                    2119.250390625
+                ],
+                [
+                    4999.5103125,
+                    0.0,
+                    2156.7301953125
+                ],
+                [
+                    4907.7401171875,
+                    0.0,
+                    2143.070390625
+                ]
+            ]
+        },
+        {
+            "Name": "Base Norte de Muratyn",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4456.63015625,
+                    0.0,
+                    6721.4001953125
+                ],
+                [
+                    4418.9496875,
+                    0.0,
+                    6694.089609375
+                ],
+                [
+                    4407.8198828125,
+                    0.0,
+                    6735.650390625
+                ],
+                [
+                    4446.0903125,
+                    0.0,
+                    6679.0501953125
+                ],
+                [
+                    4440.2301171875,
+                    0.0,
+                    6705.980390625
+                ]
+            ]
+        },
+        {
+            "Name": "Evento Emboscada",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "PoliceLoadout",
+            "NumberOfAI": 10,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4643.750214,
+                    0.0,
+                    9215.630039
+                ],                
+                [
+                    7071.880195,
+                    0.0,
+                    11287.509980
+                ],
+                [
+                    7892.979863,
+                    0.0,
+                    11927.340029
+                ],
+                [
+                    3308.200019,
+                    0.0,
+                    3334.779980
+                ],              
+                [
+                    8919.53,
+                    0.0,
+                    11743.759960
+                ]
+            ]
+        },
+        {
+            "Name": "Evento Fabrica Leste de Karlin",
+            "Faction": "Shamans",
+            "Formation": "STATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 4,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    11497.839843,
+                    0.0,
+                    7201.199609
+                ]                
+            ]
+        },
+        {
+            "Name": "Evento Meio da Fabrica",
+            "Faction": "Shamans",
+            "Formation": "STATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    11492.959843,
+                    0.0,
+                    7152.009609
+                ]                
+            ]
+        },
+        {
+            "Name": "Evento Lateral Direita",
+            "Faction": "Shamans",
+            "Formation": "STATIC",
+            "FormationLooseness": 0.5,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    11518.929843,
+                    0.0,
+                    7109.839609
+                ]                
+            ]
+        },
+        {
+            "Name": "Evento Lateral Esquerda",
+            "Faction": "Shamans",
+            "Formation": "STATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    11570.479843,
+                    0.0,
+                    7092.669609
+                ]                
+            ]
+        },
+        {
+            "Name": "Evento Fundo da Fabrica",
+            "Faction": "Shamans",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    11494.469843,
+                    0.0,
+                    7006.489609
+                ]                
+            ]
+        },
+        {
+            "Name": "Evento Nossa Base Tomada",
+            "Faction": "Shamans",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 16,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    9293.759843,
+                    0.0,
+                    11564.069609
+                ]                
+            ]
+        },
+        {
+            "Name": "Evento Cidade Tomada",
+            "Faction": "Shamans",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 16,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5976.569843,
+                    0.0,
+                    10021.099609
+                ]                
+            ]
+        }
+    ]
+}
