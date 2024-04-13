@@ -180,9 +180,9 @@
             "ClassName": "ContaminatedArea_Dynamic"
         }
     ],
-    "Patrols": [
+            "Patrols": [
         {
-            "Name": "Base Militar Norte Airfield",
+            "Name": "Banquer",
             "Faction": "Raiders",
             "Formation": "RANDOM_MONSTATIC",
             "FormationLooseness": 0.0,
@@ -210,29 +210,74 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2225.00005859375,
+                    1008.20,
                     0.0,
-                    10688.679609375
+                    1883.59
                 ],
                 [
-                    2113.28017578125,
+                    939.45,
                     0.0,
-                    10998.44
+                    927.34
                 ],
                 [
-                    2092.5898828125,
+                    2884.37,
                     0.0,
-                    11298.83
+                    1189.45
                 ],
                 [
-                    196.87013671875,
+                    1794.92,
                     0.0,
-                    11103.9101953125
+                    1222.27
+                ],
+                [
+                    31.25,
+                    0.0,
+                    1230.47
+                ],
+                [
+                    816.21,
+                    0.0,
+                    1253.12
+                ],
+                [
+                    731.05,
+                    0.0,
+                    1226.56
+                ],
+                [
+                    700.98,
+                    0.0,
+                    1183.01
+                ],
+                [
+                    629.10,
+                    0.0,
+                    1142.77
+                ],
+                [
+                    575.98,
+                    0.0,
+                    1127.34
+                ],
+                [
+                    545.12,
+                    0.0,
+                    1119.14
+                ],
+                [
+                    522.66,
+                    0.0,
+                    1058.40
+                ],
+                [
+                    573.83,
+                    0.0,
+                    952.54
                 ]
             ]
         },
         {
-            "Name": "Banker",
+            "Name": "Base Militar de Nadbor",
             "Faction": "Mercenaries",
             "Formation": "RANDOM_MONSTATIC",
             "FormationLooseness": 0.0,
@@ -260,49 +305,59 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    891.800214,
+                    5710.55,
                     0.0,
-                    1186.720039
+                    3892.19
                 ],
                 [
-                    796.879960,
+                    5791.41,
                     0.0,
-                    1216.809990
+                    3794.14
                 ],
                 [
-                    802.343994,
+                    5541.80,
                     0.0,
-                    1241.020117
+                    3654.30
                 ],
                 [
-                    741.410097,
+                    5429.30,
                     0.0,
-                    1226.560009
+                    772.66
                 ],
                 [
-                    937.110195,
+                    5403.91,
                     0.0,
-                    926.569980
+                    3785.94
                 ],
                 [
-                    703.715986,
+                    5541.41,
                     0.0,
-                    1202.540029
+                    3780.47
                 ],
                 [
-                    671.290019,
+                    5685.16,
                     0.0,
-                    1141.029980
+                    3875.00
                 ],                
                 [
-                    545.12,
+                    5577.34,
                     0.0,
-                    1120.909960
+                    3710.16
+                ],
+                [
+                    5713.28,
+                    0.0,
+                    3682.03
+                ],
+                [
+                    5605.08,
+                    0.0,
+                    3798.44
                 ]
             ]
         },
         {
-            "Name": "Base Militar Borek",
+            "Name": "Pedreira Proximo a Nadbor (Base Inimiga)",
             "Faction": "Mercenaries",
             "Formation": "RANDOM_MONSTATIC",
             "FormationLooseness": 0.0,
@@ -330,30 +385,65 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9879.36015625,
+                    6467.19,
                     0.0,
-                    8593.9101953125
+                    4641.02
                 ],
                 [
-                    9941.0796875,
+                    6450.78,
                     0.0,
-                    8525.209609375
+                    4715.63
                 ],
                 [
-                    9734.8798828125,
+                    6455.47,
                     0.0,
-                    8451.030390625
+                    4825.78
                 ],
                 [
-                    9919.2003125,
+                    6482.81,
                     0.0,
-                    8432.2901953125
+                    5286.72
                 ],
                 [
-                    9760.6401171875,
+                    6348.44,
                     0.0,
-                    8406.530390625
+                    4719.92
                 ]
+            ]
+        },
+        {
+            "Name": "Pedreira Proximo a Nadbor (Base Inimiga) Fixo Entrada",
+            "Faction": "Shamans",
+            "Formation": "STATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 4,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6436.33,
+                    0.0,
+                    4583.20
+                ]                
             ]
         },
         {
@@ -532,12 +622,12 @@
             ]
         },
         {
-            "Name": "Base de Nadbor",
+            "Name": "Cidade de Tarnow",
             "Faction": "Mercenaries",
             "Formation": "RANDOM_MONSTATIC",
             "FormationLooseness": 0.0,
             "LoadoutFile": "TTSKOLoadout",
-            "NumberOfAI": 6,
+            "NumberOfAI": 3,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "WALK",
             "UnderThreatSpeed": "RANDOM_MONSTATIC",
@@ -560,29 +650,29 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    5565.21015625,
+                    9107.81,
                     0.0,
-                    3855.0401953125
+                    11089.06
                 ],
                 [
-                    5665.9796875,
+                    9329.69,
                     0.0,
-                    3746.519609375
+                    10698.44
                 ],
                 [
-                    5535.5398828125,
+                    9428.13,
                     0.0,
-                    3773.450390625
+                    10492.19
                 ],
                 [
-                    5706.9703125,
+                    9712.50,
                     0.0,
-                    3805.8501953125
+                    10473.44
                 ],
                 [
-                    5604.6501171875,
+                    9548.44,
                     0.0,
-                    3773.840390625
+                    10631.25
                 ]
             ]
         },
@@ -927,13 +1017,13 @@
             ]
         },
         {
-            "Name": "Evento Nossa Base Tomada",
+            "Name": "Prisão",
             "Faction": "Shamans",
             "Formation": "RANDOM_MONSTATIC",
             "FormationLooseness": 0.3,
             "LoadoutFile": "TTSKOLoadout",
-            "NumberOfAI": 16,
-            "Behaviour": "ALTERNATE",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "WALK",
             "UnderThreatSpeed": "RANDOM_MONSTATIC",
             "CanBeLooted": 1,
@@ -955,20 +1045,20 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9293.759843,
+                    5638.48,
                     0.0,
-                    11564.069609
+                    8792.97
                 ]                
             ]
         },
         {
-            "Name": "Evento Cidade Tomada",
+            "Name": "Prisao 2",
             "Faction": "Shamans",
             "Formation": "RANDOM_MONSTATIC",
             "FormationLooseness": 0.3,
             "LoadoutFile": "TTSKOLoadout",
-            "NumberOfAI": 16,
-            "Behaviour": "ALTERNATE",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "WALK",
             "UnderThreatSpeed": "RANDOM_MONSTATIC",
             "CanBeLooted": 1,
@@ -990,9 +1080,149 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    5976.569843,
+                    5561.91,
                     0.0,
-                    10021.099609
+                    8731.25
+                ]                
+            ]
+        },
+        {
+            "Name": "Prisão 3",
+            "Faction": "Shamans",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5503.13,
+                    0.0,
+                    8707.62
+                ]                
+            ]
+        },
+        {
+            "Name": "Prisão 4",
+            "Faction": "Shamans",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5499.41,
+                    0.0,
+                    8814.06
+                ]                
+            ]
+        },
+        {
+            "Name": "Prisão 5",
+            "Faction": "Shamans",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5562.70,
+                    0.0,
+                    8807.81
+                ]                
+            ]
+        },
+        {
+            "Name": "Prisão 6",
+            "Faction": "Shamans",
+            "Formation": "RANDOM_MONSTATIC",
+            "FormationLooseness": 0.3,
+            "LoadoutFile": "TTSKOLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM_MONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5527.15,
+                    0.0,
+                    8776.76
                 ]                
             ]
         }
